@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+0H5iBNgn/LubIkVoHdhvfuGncMYKGYopDg9Ja4+d6UjOrwJR2d5dLVpylPQWM/67kMFt7DEuDASkppU51rWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Lesson3\\Lesson3\\Lesson3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

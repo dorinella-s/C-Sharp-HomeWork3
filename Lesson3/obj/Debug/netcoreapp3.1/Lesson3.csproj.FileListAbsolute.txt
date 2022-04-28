@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.exe
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.deps.json
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.json
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\Asus\source\repos\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\Asus\source\repos\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.genruntimeconfig.cache
